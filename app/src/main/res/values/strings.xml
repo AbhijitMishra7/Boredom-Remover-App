@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Boredom Remover</string>
+    <string name="initial_text">Welcome to the application</string>
+    <string name="checkbox_text">Click On CheckBox or not. It doesn\'t matter</string>
+    <string-array name="options_list">
+        <item>education</item>
+        <item>recreational</item>
+        <item>diy</item>
+        <item>social</item>
+        <item>charity</item>
+        <item>cooking</item>
+        <item>relaxation</item>
+        <item>music</item>
+        <item>busywork</item>
+    </string-array>
+</resources>
